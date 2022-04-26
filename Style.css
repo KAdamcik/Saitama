@@ -1,18 +1,21 @@
-.test {
-    font-family : Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
-    max-width: 50px;
-    width: fit-content;
-    background-color: indianred;
+* {
+    font-family: 'Roboto', sans-serif;
 }
-.test:hover{
-    background-color: indigo;
-    border-radius: 25px;
-}
-h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 70px
-}
+
 body {
-    background-color:aqua;
+    background-color:cornflowerblue
+}
+
+div {
+    position: relative;
+    top: 30px;
+    left: 15px;
+}
+
+.nadpis {
+    font-size: 50px;
+    background-color: rgba(128, 128, 128, 0.614);
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 540px;
 }
