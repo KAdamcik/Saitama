@@ -1,3 +1,18 @@
 .test {
-
+    font-family : Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    max-width: 50px;
+    width: fit-content;
+    background-color: indianred;
+}
+.test:hover{
+    background-color: indigo;
+    border-radius: 25px;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 70px
+}
+body {
+    background-color:aqua;
 }
